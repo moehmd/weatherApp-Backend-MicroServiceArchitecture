@@ -1,0 +1,8 @@
+countries:
+	https://weather-microsevices-country.herokuapp.com/
+
+cities:
+	https://weatherpro-microsevices-city.herokuapp.com/
+
+weatherForecast:
+	https://weather-microservices-weather.herokuapp.com/
